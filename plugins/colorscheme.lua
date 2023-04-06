@@ -1,0 +1,20 @@
+return {
+
+  "ellisonleao/gruvbox.nvim",
+  "patstockwell/vim-monokai-tasty",
+  "bluz71/vim-nightfly-colors",
+  "bluz71/vim-moonfly-colors",
+  "rmehri01/onenord.nvim",
+  "uloco/bluloco.nvim",
+  "Mofiqul/dracula.nvim",
+  "rebelot/kanagawa.nvim",
+  "glepnir/oceanic-material",
+  "Mofiqul/adwaita.nvim",
+  "lunarvim/horizon.nvim",
+  "marko-cerovac/material.nvim",
+  "sainnhe/sonokai",
+  "EdenEast/nightfox.nvim",
+  "projekt0n/github-nvim-theme",
+  "freeo/vim-kalisi",
+  "jacoborus/tender.vim",
+}
